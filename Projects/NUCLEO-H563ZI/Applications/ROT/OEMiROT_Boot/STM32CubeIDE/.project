@@ -70,6 +70,11 @@
 			<locationURI>PARENT-1-PROJECT_LOC/Src/low_level_obkeys.c</locationURI>
 		</link>
 		<link>
+			<name>Application/User/low_level_obkeys_device.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Src/low_level_obkeys_device.c</locationURI>
+		</link>
+		<link>
 			<name>Application/User/low_level_rng.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/Src/low_level_rng.c</locationURI>
